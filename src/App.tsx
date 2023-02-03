@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "components/shared/Header/Header";
+import Header from "components/Header/Header";
 import HomePage from "pages/HomePage";
 import SprintsPage from "pages/SprintsPage";
 import { TicketsSprintsProvider } from "context/ticketsSprintsContext";
